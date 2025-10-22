@@ -3,7 +3,7 @@
 This project is part of the ThAmCo Order subsystem.
 This project is a microservice for the retrieval of orders for any purpose.
 
-> Originally developed as part of the Cloud Computing DevOps module in the Computer Science Course.
+> Originally developed as part of the Cloud Computing DevOps module in the Computer Science course.
 
 This project is part of the ThAmCo Order subsystem.
 It fulfils the job as a microservice for retrieving orders.
