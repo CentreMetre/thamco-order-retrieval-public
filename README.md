@@ -1,4 +1,4 @@
-# ThAmCo Order Creation Microservice
+# ThAmCo Order Retrieval Microservice
 
 This project is part of the ThAmCo Order subsystem.
 This project is a microservice for the retrieval of orders for any purpose.
